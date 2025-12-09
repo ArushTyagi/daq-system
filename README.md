@@ -1,1 +1,1 @@
-Read daq-system readme for introduction and overview
+Refer "daq-system readme.pdf" for introduction and overview
